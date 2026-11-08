@@ -18,7 +18,7 @@ export const testimonials: Testimonial[] = [
   {
     quote:
       "Super reliable editor with an exceptional eye for storytelling rhythm. Always delivers ahead of schedule even with heavy 8K RED footage.",
-    name: "David Korb",
+    name: "David ",
     title: "Executive Producer, Synthetix",
     rating: 5,
   },
